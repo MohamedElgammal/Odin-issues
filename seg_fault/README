@@ -1,0 +1,7 @@
+when the output of a primitive is connected to an element of vector --> segmentation fault
+
+Workaround:
+    - wire temp 
+    - assign o[0] = temp;
+    - connect temp in the module instantiation
+

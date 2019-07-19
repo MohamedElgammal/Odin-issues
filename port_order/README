@@ -1,0 +1,4 @@
+When instantiating a module in the format: module_name
+instance_name(.a(),.b())
+
+there is no need to check for port order while odin checks that

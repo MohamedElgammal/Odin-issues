@@ -1,0 +1,3 @@
+when an input port is unused in a module rather than the top module odin
+erros out : unused input port 
+
